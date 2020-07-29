@@ -84,11 +84,6 @@ class TicTacToe
     end
 
     winner.length == 3 ? winner : false
-    # if winner.length == 3
-    #   return winner
-    # else
-    #   return false
-    # end
   end
 
   def full?
